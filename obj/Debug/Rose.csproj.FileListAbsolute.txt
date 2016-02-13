@@ -1,0 +1,3 @@
+Z:\Aether\Game\Source\Tools\Rose\bin\Debug\Rose.exe.config
+Z:\Aether\Game\Source\Tools\Rose\obj\Debug\Interop.Shell32.dll
+Z:\Aether\Game\Source\Tools\Rose\obj\Debug\Rose.csproj.ResolveComReference.cache
